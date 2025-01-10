@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://rvc-001.github.io/portfolio"
 title   = "Rajvardhan Chhugani"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -132,7 +132,7 @@ disableHugoGeneratorInject = false
     topText = []
    # bottomText = [
       ##"Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
-    ]
+    
 
   # Colors for favicons
   #
